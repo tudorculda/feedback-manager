@@ -1,12 +1,11 @@
-
-import './App.css';
+import "./App.css";
 
 function App() {
+  
+
   return (
     <div>
-      MERGE
-        
-       
+      aici vine o componenta
     </div>
   );
 }

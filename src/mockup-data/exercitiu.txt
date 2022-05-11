@@ -1,0 +1,2 @@
+1) Componenta in care afisam un bundle tile si sub el cate raspunsuri am avut ( Numarul de raspunsuri a fost --)
+2) O componenta parinte care sa contina toate bundle-urile de mai sus
